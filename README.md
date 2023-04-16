@@ -1,4 +1,4 @@
-# React Server Components Demo
+# React Server Components Demos
 
 * [What is this?](#what-is-this)
 * [When will I be able to use this?](#when-will-i-be-able-to-use-this)
